@@ -1767,7 +1767,7 @@ p,
 
 .para2 {
   background-image: url(../img/amendent-banner.png);
-  padding: 175px 80px;
+  padding: 160px 80px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1777,6 +1777,7 @@ p,
     font-size: 75px;
     font-family: 'Times Bolditalic';
     color:#ffffff;
+    margin-top: 88px;
 }
 .para2 p{
     font-size: 40px;
@@ -2450,10 +2451,13 @@ img.bnr-bttm {
         font-size: 32px;
     }
     .para2{
-        padding: 30px;
+        padding: 24px 10px;
     }
     .footer-widget .footer-item  img{
         width: 100px;
+    }
+    .para2 h2{
+        margin-top: 24px;
     }
 }
 @media screen and (max-width:719px){
